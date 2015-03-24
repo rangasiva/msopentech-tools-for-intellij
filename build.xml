@@ -27,12 +27,7 @@ limitations under the License.
     <property name="compiler.args" value=""/>
     <property name="compiler.max.memory" value="700m"/>
     <patternset id="ignored.files">
-        <exclude name="**/CVS/**"/>
-        <exclude name="**/SCCS/**"/>
-        <exclude name="**/RCS/**"/>
-        <exclude name="**/rcs/**"/>
-        <exclude name="**/.DS_Store/**"/>
-        <exclude name="**/.svn/**"/>
+      
         <exclude name="**/.pyc/**"/>
         <exclude name="**/.pyo/**"/>
         <exclude name="**/*.pyc/**"/>
